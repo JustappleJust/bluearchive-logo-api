@@ -2,6 +2,8 @@
 
 A logo generator using canvas & Vanilla js.
 
+> I'm now building the api (image only) version.
+
 ## Used Fonts
 
 * [RoG2サンセリフStd B](https://www.morisawa.co.jp/fonts/specimen/1646) (Modded)
